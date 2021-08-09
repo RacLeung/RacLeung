@@ -1,4 +1,5 @@
-👋 Hi, I’m Rachel✨
+## 👋 👋 👋 👋 👋 👋 👋 👋
+# This is Rachel✨
 
 🌱 I’m currently learning data science in Xccelerate, Hong Kong
 
